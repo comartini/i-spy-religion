@@ -5,8 +5,8 @@
 
 const scenes = [
   {
-    id: "fourth-of-july",
-    title: "Fourth of July Parade",
+    id: "MAGA-rally",
+    title: "Rally",
     image: "images/MAGA-rally.jpg",
     hotspots: [
       {
