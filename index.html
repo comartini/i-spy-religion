@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Where Is Religion?</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Where Is Religion?</h1>
+    <p class="subtitle">Click around the image to find where religion appears — obvious and hidden.</p>
+  </header>
+
+  <main>
+    <div class="scene-label" id="scene-label"></div>
+
+    <div class="image-container" id="image-container">
+      <img id="scene-image" src="" alt="A scene for exploration" />
+      <div id="hotspots-layer"></div>
+    </div>
+
+    <div class="tooltip" id="tooltip">
+      <button class="tooltip-close" id="tooltip-close">✕</button>
+      <h3 id="tooltip-title"></h3>
+      <p id="tooltip-body"></p>
+    </div>
+
+    <div class="controls">
+      <button id="next-btn">Load a New Scene →</button>
+      <button id="hints-btn">Toggle Hotspot Hints</button>
+    </div>
+
+    <div class="found-list" id="found-list">
+      <p class="found-label">Spots found: <span id="found-count">0</span></p>
+    </div>
+  </main>
+
+  <script src="scenes.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
