@@ -7,7 +7,7 @@ const scenes = [
   {
     id: "MAGA-rally",
     title: "Rally",
-    image: "images/MAGA-rally.jpg",
+    image: "i-spy-religion/images/MAGA-rally.jpg",
     hotspots: [
       {
         x: 50, y: 30,
