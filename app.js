@@ -18,6 +18,8 @@ function loadScene(scene) {
   document.getElementById("scene-image").src = scene.image;
   document.getElementById("scene-image").alt = scene.title;
   document.getElementById("found-count").textContent = "0";
+document.getElementById("total-count").textContent = scene.hotspots.length;
+document.getElementById("remaining-count").textContent = scene.hotspots.length;
   document.getElementById("hotspots-layer").innerHTML = "";
   document.getElementById("image-container").classList.remove("hints-visible");
   closeTooltip();
@@ -47,6 +49,7 @@ function renderHotspots(scene) {
       dot.classList.add("found");
       foundSpots.add(index);
       document.getElementById("found-count").textContent = foundSpots.size;
+document.getElementById("remaining-count").textContent = currentScene.hotspots.length - foundSpots.size;
       showTooltip(spot);
     });
 
