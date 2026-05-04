@@ -68,10 +68,20 @@ header h1 {
   height: 54px;
   transform: translate(-50%, -50%);
   border-radius: 50%;
-  border: 2px solid rgba(255,255,255,0.8);
-  background: rgba(180, 50, 50, 0.25);
-  cursor: pointer;
+  border: none;
+  background: transparent;
+  cursor: crosshair;
   transition: background 0.2s, transform 0.2s;
+}
+
+.hotspot:hover {
+  background: transparent;
+}
+
+.hotspot.found {
+  background: rgba(60, 140, 80, 0.5);
+  border: 2px solid white;
+  cursor: pointer;
 }
 
 .hotspot:hover {
