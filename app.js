@@ -14,7 +14,6 @@ function loadScene(scene) {
   foundSpots = new Set();
   hintsVisible = false;
 
-  document.getElementById("scene-label").textContent = scene.title;
   document.getElementById("scene-image").src = scene.image;
   document.getElementById("scene-image").alt = scene.title;
   document.getElementById("found-count").textContent = "0";
