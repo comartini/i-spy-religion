@@ -113,9 +113,9 @@ const scenes = [
   },
 
   {
-    id: "sports-stadium",
-    title: "Sports Stadium",
-    image: "images/sports-stadium.jpg",
+    id: "sabbath-elevator",
+    title: "Sabbath Elevator",
+    image: "images/Sabbath_elevator.jpg",
     hotspots: [
       {
         x: 45, y: 55,
