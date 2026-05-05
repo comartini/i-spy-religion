@@ -112,7 +112,9 @@ header h1 {
   100% { box-shadow: 0 0 0 0 rgba(180,50,50,0); }
 }
 
-.hotspot:not(.found) {
+.hints-visible .hotspot:not(.found) {
+  background: rgba(180, 50, 50, 0.25);
+  border: 2px solid rgba(255,255,255,0.8);
   animation: pulse 2.5s infinite;
 }
 
