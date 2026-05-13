@@ -114,38 +114,14 @@ const scenes = [
 
   {
     id: "sabbath-elevator",
-    title: "Sabbath Elevator",
+    title: "Shabbat Elevator",
     image: "images/Sabbath_elevator.jpg",
     hotspots: [
       {
         x: 45, y: 55,
-        label: "Player Kneeling in Prayer",
+        label: "Shabbat Setting",
         obvious: true,
-        text: "Prayer in the end zone is one of the most publicly debated religious gestures in American life. It sits at the intersection of free exercise, establishment concerns, and celebrity religion. When an athlete prays on national television, is this private devotion or public performance — and does the difference matter?"
-      },
-      {
-        x: 20, y: 60,
-        label: "Team Chaplain on the Sideline",
-        obvious: false,
-        text: "Most professional and college sports teams employ chaplains — clergy who provide pastoral care and lead voluntary chapel services. Institutional religion has followed the game into the locker room. How do we think about religious accommodation in a space that is also a workplace and a broadcast product?"
-      },
-      {
-        x: 70, y: 35,
-        label: "Fans with Arms Raised",
-        obvious: false,
-        text: "Arms raised, eyes closed, voices unified — this posture is identical to charismatic Christian worship. Is this a coincidence? Scholars like Michael Mandelbaum have called sport \"the American religion.\" What would it mean to take that claim seriously rather than metaphorically?"
-      },
-      {
-        x: 80, y: 20,
-        label: "Retired Jersey in the Rafters",
-        obvious: false,
-        text: "Retiring a number removes it from circulation permanently and hangs it above the crowd. This is canonization logic: the exceptional individual is elevated, made permanent, placed beyond ordinary reach. What other figures in American life receive this kind of treatment?"
-      },
-      {
-        x: 50, y: 80,
-        label: "The Coin Toss",
-        obvious: false,
-        text: "Before every game, chance is formally consulted via a ritual with designated officials, a sacred object, and a set script. Structured encounters with randomness and fate appear across religious traditions. What does it mean that we've kept this ritual at the center of a modern secular sport?"
+        text: "In more orthodox Judaism, observers of the weekly Shabbat (Sabbath or Shabbos) are required to abstain from various kinds of "work." There has been much debate over what that entails, particulaly in our present technological age. Some interpreters of Jewish law have concluded that the use of any electricity violates Shabbat, requiring observers to sometimes find compromises and workarounds to make their observance work in today's world. One of those compromises is the Shabbat elevator setting that makes the elevator stop at every floor in a building, allowing observers to use the elevator without actually operating it. This remains a contentious compromise among orthodox rabbis. Still, many public buildings in the United States, particulalry hospitals, will enable their elevator's Shabbat setting in order to accomodate observers. To learn more, check out Alan Dundes' book The Shabbat Elevator and other Sabbath Subterfuges."
       }
     ]
   },
