@@ -113,8 +113,8 @@ header h1 {
 }
 
 .hints-visible .hotspot:not(.found) {
-  background: rgba(180, 50, 50, 0.25);
-  border: 2px solid rgba(255,255,255,0.8);
+  background: transparent;
+  border: none;
   animation: pulse 2.5s infinite;
 }
 
