@@ -36,10 +36,10 @@ const scenes = [
     image: "images/DAPL.jpg",
     hotspots: [
       {
-        x: 51, y: 11,
-        label: "Shabbat Setting",
+        x: 31, y: 84,
+        label: "Medicine Wheel",
         obvious: true,
-        text: "In more orthodox Judaism, observers of the weekly Shabbat (Sabbath or Shabbos) are required to abstain from various kinds of work or labor. There has been much debate over what that entails, particularly in our present technological age. Some interpreters of Jewish law have concluded that the use of any electricity violates Shabbat, requiring observers to sometimes find compromises and workarounds to make their observance work in today\'s world. One of those compromises is the Shabbat elevator setting that makes the elevator stop at every floor in a building, allowing observers to use the elevator without actually operating it. This remains a contentious compromise among orthodox rabbis. Still, many public buildings in the United States, particularly hospitals, will enable their elevator\'s Shabbat setting in order to accommodate observers. To learn more, check out Alan Dundes\' book The Shabbat Elevator and Other Sabbath Subterfuges."
+        text: "Within the word 'honor,' you can see a circle separated into different colored quadrants. This symbol is commonly called the medicine wheel, and it is used in many pan-American Indigenous contexts as a sign of solidarity and a gesture to the thousands of years of Indigenous knowledge about the natural world. However, the symbol itself is not as old as the traditions it represents--it was derived by Charles Storm in 1972 in an attempt to crystallize a number of indigenous religious and spiritual ideas into one image, with the four quadrants representing the cardinal directions, stages of life, seasons, representative or sacred animals, and virtues. The symbol has been heavily criticized by many Indigenous people, who argue that it is a gross simplification of complex traditions and that it has been co-opted for profit by the New Age movement. Still, it is commonly seen as a mark of pan-Indigenous identitiy, and so its presence at a protest against the Dakota Access Pipeline is not surprising, though it is a reminder to us to attend to the histories of symbols when discussing their use. For more on the history of the symbol and its reception, see Christopher Shaw's 2021 article in the New Age Journal titled A Theft of Spirit?. For more on Indigenous religion in protest movements, see Michael McNally's Defend the Sacred: Native American Religious Freedom Beyond the First Amendment."
       }
     ]
   }
