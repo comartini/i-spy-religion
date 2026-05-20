@@ -10,38 +10,13 @@ const scenes = [
     image: "images/MAGA-rally.jpg",
     hotspots: [
       {
-        x: 50, y: 30,
-        label: "\"God Bless America\" Banner",
+        x: 35, y: 40,
+        label: "The Epoch Times",
         obvious: true,
-        text: "Civil religion speaks openly here. The phrase asks a deity to favor a nation — treating America as a chosen or specially blessed people. What theology is embedded in this familiar phrase? Who is included in its \"America\"?"
+        text: "At first glance, you might assume that a newspaper with this name, presented in a venue like this, would be a Christian-focused publication. The word "epoch" here would often be a clue to suggest that the publication was affiliated with the theology of Evangelical dispensationalism, in which time is divided into distinct epochs in which God exercises a particular plan, with our current epoch being the last before the return of Christ and the apocalypse. Dispensationalism is common among conservative Evangelicals who might be supportive of President Trump. However, The Epoch Times is actually a publication run by Falun Gong, a Chinese new religious movement that has been heavily persecuted in China and which operates several far-right and anti-Communist programs in the United States, like The Epoch Times and the Shen Yun dance troupe. Though not Christian, Falun Gong shares many more cultural positions with American conservative Evangelicals, such as opposition to homosexuality, feminism, and socialism and support for Donald Trump's political movement. For more on American Christian dispensationalism, see Matthew Avery Sutton's American Apocalypse. For more on Falun Gong, particularly its apocalyptic beliefs, see Maria Hsia Chang's Falun Gong: The End of Days. "
       },
-      {
-        x: 25, y: 60,
-        label: "Local Church Float",
-        obvious: true,
-        text: "A congregation has chosen to participate in a civic celebration rather than — or in addition to — a worship service. What does it mean for a church to march in a parade? What does the church gain, and what does it risk?"
+      ]
       },
-      {
-        x: 70, y: 50,
-        label: "Veteran in Uniform",
-        obvious: false,
-        text: "Robert Bellah argued that America has its own civil religion complete with martyrs and saints. The veteran in uniform occupies a quasi-sacred role in this system. What rituals, symbols, and narratives make military service feel religious even to secular Americans?"
-      },
-      {
-        x: 40, y: 75,
-        label: "Child with Hand Over Heart",
-        obvious: false,
-        text: "This gesture is learned young, repeated often, and rarely questioned. Sociologists of religion call this kind of bodily practice \"catechesis\" — the transmission of belief through the body before it is understood by the mind. What else does this child learn by doing this?"
-      },
-      {
-        x: 85, y: 40,
-        label: "American Flag",
-        obvious: false,
-        text: "Émile Durkheim argued that the totem — a sacred object that represents the community to itself — is the real object of religious devotion. Is the flag a totem? What behaviors (folding, burning, kneeling near it) are treated as sacred transgressions?"
-      }
-    ]
-  },
-
   {
     id: "sabbath-elevator",
     title: "Shabbat Elevator",
