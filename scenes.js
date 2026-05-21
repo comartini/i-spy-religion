@@ -48,5 +48,18 @@ const scenes = [
         text: "The religion of capitalism in the United States has been widely discussed and debated topic in religious studies. When talking about the Industrial and Modern eras, those conversations must include the American devotion to oil and fossil fuels, which arguably consitute part of the civil religion of America itself. Consider the symbol of the personal motor vehicle in American life and the cultural capital derived from things like bigger or faster cars. Consider also the close connection between the oil industry and conservative politicians, many of whom talk about the expanse of the fossil fuel industry and American energy dominance as a good and righteous thing, with 'Drill Baby Drill' being a conservative slogan since Sarah Palin popularized the phrase in the 2008 presidential election. Beyond this specifically Christian/Conservative connection to oil, there is also the fact that oil and fossil fuels represent the often-hidden backbone of modernity, affording things like plastics and air travel that make our world work the way that it does. Even if one were to not advocate for reckless drilling or to support the closure of of the Dakota Access Pipeline, it might be hard to say that anyone living in the modern era is not, in some small way, a devotee of the religion of Big Oil. For more on the explicit connections between American Christianity and the fossil fuel industry, see Darren Dochuck's Annointed with Oil: How Christianity and Crude Made Modern America."
       }
     ]
+  },
+    {
+    id: "In-n-Out",
+    title: "In-n-Out",
+    image: "images/in-n-out.jpg",
+    hotspots: [
+      {
+        x: 51, y: 11,
+        label: "Shabbat Setting",
+        obvious: true,
+        text: "In more orthodox Judaism, observers of the weekly Shabbat (Sabbath or Shabbos) are required to abstain from various kinds of work or labor. There has been much debate over what that entails, particularly in our present technological age. Some interpreters of Jewish law have concluded that the use of any electricity violates Shabbat, requiring observers to sometimes find compromises and workarounds to make their observance work in today\'s world. One of those compromises is the Shabbat elevator setting that makes the elevator stop at every floor in a building, allowing observers to use the elevator without actually operating it. This remains a contentious compromise among orthodox rabbis. Still, many public buildings in the United States, particularly hospitals, will enable their elevator\'s Shabbat setting in order to accommodate observers. To learn more, check out Alan Dundes\' book The Shabbat Elevator and Other Sabbath Subterfuges."
+      }
+    ]
   }
 ];
