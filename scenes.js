@@ -68,10 +68,10 @@ const scenes = [
     image: "images/supreme-court.jpg",
     hotspots: [
       {
-        x: 40, y: 92,
-        label: "John 3:16",
+        x: 50, y: 20,
+        label: "Temple of Justice",
         obvious: true,
-        text: "Many businesses in the United States sneak a bit of religion into their branding. The fast-food chain In-N-Out Burger has, printed on the inside of the rim of the bottom of their drink cups, 'JOHN 3:16': 'For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.' The clothing retailer Forever 21 also has John 3:16 printed on the bottom of their iconic yellow bags."
+        text: "."
       }
     ]
   }
