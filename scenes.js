@@ -71,7 +71,7 @@ const scenes = [
         x: 50, y: 20,
         label: "Temple of Justice",
         obvious: true,
-        text: "."
+        text: "Architect Cass Gilbert deliberately designed the United States Supreme Court building in the likeness of a temple from Greek and Roman antiquity, and it has been nicknamed the 'Temple of Justice.' The columnar facade, with the accomanying frieze above the pediment, evoke famous temples such as the Parthenon, the Hephaisteion, and the Pantheon. Neoclassical architectural stylings are common among American government buildings, creating an aesthetic connection between an antique past, and the origins of democracy and other civic ideals, and the American present. Marking these buildings as such denotes an explicit attempt to assign a sacred character to the workings of American government--as its architectural predecessors were meant to be the home of the gods, buildings like the Supreme Court are meant to be the home of the divine and immortal spirit of the ideals of American justice. Ideals, of course, are very different from reality, and there are many groups throughout history who would disagree that the members of the Supreme Court amounted to a pantheon of perfect justice. For more, see Greek Revival Architecture in America by Talbot Hamlin."
       }
     ]
   }
