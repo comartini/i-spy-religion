@@ -23,7 +23,7 @@ const scenes = [
     image: "images/Sabbath_elevator.jpg",
     hotspots: [
       {
-        x: 51, y: 11,
+        x: 51.5, y: 11,
         label: "Shabbat Setting",
         obvious: true,
         text: "In more orthodox Judaism, observers of the weekly Shabbat (Sabbath or Shabbos) are required to abstain from various kinds of work or labor. There has been much debate over what that entails, particularly in our present technological age. Some interpreters of Jewish law have concluded that the use of any electricity violates Shabbat, requiring observers to sometimes find compromises and workarounds to make their observance work in today\'s world. One of those compromises is the Shabbat elevator setting that makes the elevator stop at every floor in a building, allowing observers to use the elevator without actually operating it. This remains a contentious compromise among orthodox rabbis. Still, many public buildings in the United States, particularly hospitals, will enable their elevator\'s Shabbat setting in order to accommodate observers. To learn more, check out Alan Dundes\' book The Shabbat Elevator and Other Sabbath Subterfuges."
@@ -36,7 +36,7 @@ const scenes = [
     image: "images/DAPL.jpg",
     hotspots: [
       {
-        x: 31, y: 84,
+        x: 31.5, y: 84,
         label: "Medicine Wheel",
         obvious: true,
         text: "Within the word 'honor,' you can see a circle separated into different colored quadrants. This symbol is commonly called the medicine wheel, and it is used in many pan-American Indigenous contexts as a sign of solidarity and a gesture to the thousands of years of Indigenous knowledge about the natural world. However, the symbol itself is not as old as the traditions it represents--it was derived by Charles Storm in 1972 in an attempt to crystallize a number of indigenous religious and spiritual ideas into one image, with the four quadrants representing the cardinal directions, stages of life, seasons, representative or sacred animals, and virtues. The symbol has been heavily criticized by many Indigenous people, who argue that it is a gross simplification of complex traditions and that it has been co-opted for profit by the New Age movement. Still, it is commonly seen as a mark of pan-Indigenous identitiy, and so its presence at a protest against the Dakota Access Pipeline is not surprising, though it is a reminder to us to attend to the histories of symbols when discussing their use. For more on the history of the symbol and its reception, see Christopher Shaw's 2021 article in the New Age Journal titled A Theft of Spirit?. For more on Indigenous religion in protest movements, see Michael McNally's Defend the Sacred: Native American Religious Freedom Beyond the First Amendment."
@@ -55,7 +55,7 @@ const scenes = [
     image: "images/in-n-out.jpg",
     hotspots: [
       {
-        x: 40, y: 92,
+        x: 50, y: 92,
         label: "John 3:16",
         obvious: true,
         text: "Many businesses in the United States sneak a bit of religion into their branding. The fast-food chain In-N-Out Burger has, printed on the inside of the rim of the bottom of their drink cups, 'JOHN 3:16': 'For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.' The clothing retailer Forever 21 also has John 3:16 printed on the bottom of their iconic yellow bags."
@@ -68,19 +68,19 @@ const scenes = [
     image: "images/supreme-court.jpg",
     hotspots: [
       {
-        x: 50, y: 20,
+        x: 49.5, y: 20,
         label: "Temple of Justice",
         obvious: true,
         text: "Architect Cass Gilbert deliberately designed the United States Supreme Court building in the likeness of a temple from Greek and Roman antiquity, and it has been nicknamed the 'Temple of Justice.' The columnar facade, with the accomanying frieze above the pediment, evoke famous temples such as the Parthenon, the Hephaisteion, and the Pantheon. Neoclassical architectural stylings are common among American government buildings, creating an aesthetic connection between an antique past, and the origins of democracy and other civic ideals, and the American present. Marking these buildings as such denotes an explicit attempt to assign a sacred character to the workings of American government--as its architectural predecessors were meant to be the home of the gods, buildings like the Supreme Court are meant to be the home of the divine and immortal spirit of the ideals of American justice. Ideals, of course, are very different from reality, and there are many groups throughout history who would disagree that the members of the Supreme Court amounted to a pantheon of perfect justice. For more, see Greek Revival Architecture in America by Talbot Hamlin."
       },
         {
-        x: 60, y: 35,
+        x: 60.5, y: 35,
         label: "Corinthian Columns",
         obvious: true,
         text: "Columns in antiquity followed three orders, developed in sequence--Doric, Ionic, and Corinthian. These columns are in the Corinthian style, often considered to be the most lavish and opulent of the three columnar orders. Doric and Ionic columns were much more understated, with simple capitals as opposed to the intricate leaf designs on Corinthian columns. The Corintian column was more popular in Roman antiquity, where it was used to mark buildings with imagery that evoked the power and grandeur of the Empire. There is also a subtle Christian signification here--the Roman colony of Corinth, where the column was first discovered, was also the site of one of the earliest Christian communities in the ancient Mediterranean, established by the Apostle Paul."
       },
       {
-        x: 80, y: 60,
+        x: 81, y: 60,
         label: "Authority of Law and Contemplation of Justice",
         obvious: true,
         text: "The entrance to the Supreme Court is flanked by two seated statues, the Authority of Law and the Contemplation of Justice, also done in a Neoclassical style. The two seated statues are evocative of the seated cult statues of the dieties to which a temple in antiquity was devoted, though unlike their anitque counterparts these statues are outside the building rather than inside in a place of significance. Though not depicting gods themselves, the statues, in borrowing from these antique traditions, are done in such a way as to assert a aesthetic authority. Instead of dieties, they depict civic viritues, law and justice, in such a way as to elevate those ideals, and the greater American ideal of which they are a part, to the height of the gods. In many ways, the Supreme Court building is a clear representative of American civil religion, the religion of America itself, enshrined in temples and cult statues like those seen here."
