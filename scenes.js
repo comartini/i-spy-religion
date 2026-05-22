@@ -23,7 +23,7 @@ const scenes = [
     image: "images/Sabbath_elevator.jpg",
     hotspots: [
       {
-        x: 51.5, y: 11,
+        x: 51, y: 11,
         label: "Shabbat Setting",
         obvious: true,
         text: "In more orthodox Judaism, observers of the weekly Shabbat (Sabbath or Shabbos) are required to abstain from various kinds of work or labor. There has been much debate over what that entails, particularly in our present technological age. Some interpreters of Jewish law have concluded that the use of any electricity violates Shabbat, requiring observers to sometimes find compromises and workarounds to make their observance work in today\'s world. One of those compromises is the Shabbat elevator setting that makes the elevator stop at every floor in a building, allowing observers to use the elevator without actually operating it. This remains a contentious compromise among orthodox rabbis. Still, many public buildings in the United States, particularly hospitals, will enable their elevator\'s Shabbat setting in order to accommodate observers. To learn more, check out Alan Dundes\' book The Shabbat Elevator and Other Sabbath Subterfuges."
@@ -55,7 +55,7 @@ const scenes = [
     image: "images/in-n-out.jpg",
     hotspots: [
       {
-        x: 50, y: 92,
+        x: 45, y: 92,
         label: "John 3:16",
         obvious: true,
         text: "Many businesses in the United States sneak a bit of religion into their branding. The fast-food chain In-N-Out Burger has, printed on the inside of the rim of the bottom of their drink cups, 'JOHN 3:16': 'For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.' The clothing retailer Forever 21 also has John 3:16 printed on the bottom of their iconic yellow bags."
@@ -80,7 +80,7 @@ const scenes = [
         text: "Columns in antiquity followed three orders, developed in sequence--Doric, Ionic, and Corinthian. These columns are in the Corinthian style, often considered to be the most lavish and opulent of the three columnar orders. Doric and Ionic columns were much more understated, with simple capitals as opposed to the intricate leaf designs on Corinthian columns. The Corintian column was more popular in Roman antiquity, where it was used to mark buildings with imagery that evoked the power and grandeur of the Empire. There is also a subtle Christian signification here--the Roman colony of Corinth, where the column was first discovered, was also the site of one of the earliest Christian communities in the ancient Mediterranean, established by the Apostle Paul."
       },
       {
-        x: 81, y: 60,
+        x: 81.5, y: 60,
         label: "Authority of Law and Contemplation of Justice",
         obvious: true,
         text: "The entrance to the Supreme Court is flanked by two seated statues, the Authority of Law and the Contemplation of Justice, also done in a Neoclassical style. The two seated statues are evocative of the seated cult statues of the dieties to which a temple in antiquity was devoted, though unlike their anitque counterparts these statues are outside the building rather than inside in a place of significance. Though not depicting gods themselves, the statues, in borrowing from these antique traditions, are done in such a way as to assert a aesthetic authority. Instead of dieties, they depict civic viritues, law and justice, in such a way as to elevate those ideals, and the greater American ideal of which they are a part, to the height of the gods. In many ways, the Supreme Court building is a clear representative of American civil religion, the religion of America itself, enshrined in temples and cult statues like those seen here."
