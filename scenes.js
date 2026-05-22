@@ -108,8 +108,7 @@ const scenes = [
         x: 54.2, y: 12.9,
         label: "Amulets",
         obvious: true,
-        text: "" 
-          "
+        text: ""
       }
         ]
   }
