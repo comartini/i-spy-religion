@@ -196,29 +196,3 @@ header h1 {
 nav {
   margin-top: 0.5rem;
 }
-
-nav a {
-  font-family: "Google Sans Flex", sans-serif;
-  font-size: 0.9rem;
-  color: #8b3a3a;
-  text-decoration: none;
-  letter-spacing: 0.05em;
-}
-
-nav a:hover {
-  text-decoration: underline;
-}
-
-.about-content {
-  max-width: 680px;
-  margin: 0 auto;
-  padding: 1rem;
-  line-height: 1.8;
-}
-
-.about-content h2 {
-  font-size: 1.2rem;
-  margin-top: 2rem;
-  margin-bottom: 0.5rem;
-  color: #8b3a3a;
-}
