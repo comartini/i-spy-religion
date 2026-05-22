@@ -105,6 +105,13 @@ const scenes = [
         text: "These small bracelets look like they could be miniature rosary beads, objects called decades on which someone could pray one set of ten Hail Mary prayers. However, if you look closely, they have more than the standard eleven beads a decade would have, and the medallion is not a recognizably Catholic or Marian symbol. At least two sets of beads feature an amulet with a figure carying a scythe, strongly indicating that the beads are amulets of Santa Muerte, a Mexican folk saint who is associated with healing, protection, and safe passage to the afterlife. The Santa Muerte cult is not officially recognizaed by the Catholic Church, yet many Catholics still turn to her for protection, and her appearing in a material context that looks so much like a miniature rosary speaks to the strength of that syncretism. For more, see Kingsbury and Chestnut's article in Religions, Syncretic Santa Muerte: Holy Death and Religious Bricolage." 
           "
       },
+      {
+        x: 54.2, y: 12.9,
+        label: "Amulets",
+        obvious: true,
+        text: "" 
+          "
+      }
         ]
   }
 ];
