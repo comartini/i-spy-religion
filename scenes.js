@@ -86,5 +86,18 @@ const scenes = [
         text: "The entrance to the Supreme Court is flanked by two seated statues, the Authority of Law and the Contemplation of Justice, also done in a Neoclassical style. The two seated statues are evocative of the seated cult statues of the dieties to which a temple in antiquity was devoted, though unlike their anitque counterparts these statues are outside the building rather than inside in a place of significance. Though not depicting gods themselves, the statues, in borrowing from these antique traditions, are done in such a way as to assert a aesthetic authority. Instead of dieties, they depict civic viritues, law and justice, in such a way as to elevate those ideals, and the greater American ideal of which they are a part, to the height of the gods. In many ways, the Supreme Court building is a clear representative of American civil religion, the religion of America itself, enshrined in temples and cult statues like those seen here."
       }
     ]
+  },
+  {
+    id: "Botanica",
+    title: "Botanica",
+    image: "images/botanica.jpg",
+    hotspots: [
+      {
+        x: 50, y: 20,
+        label: "Temple of Justice",
+        obvious: true,
+        text: "Architect Cass Gilbert deliberately designed the United States Supreme Court building in the likeness of a temple from Greek and Roman antiquity, and it has been nicknamed the 'Temple of Justice.' The columnar facade, with the accomanying frieze above the pediment, evoke famous temples such as the Parthenon, the Hephaisteion, and the Pantheon. Neoclassical architectural stylings are common among American government buildings, creating an aesthetic connection between an antique past, and the origins of democracy and other civic ideals, and the American present. Marking these buildings as such denotes an explicit attempt to assign a sacred character to the workings of American government--as its architectural predecessors were meant to be the home of the gods, buildings like the Supreme Court are meant to be the home of the divine and immortal spirit of the ideals of American justice. Ideals, of course, are very different from reality, and there are many groups throughout history who would disagree that the members of the Supreme Court amounted to a pantheon of perfect justice. For more, see Greek Revival Architecture in America by Talbot Hamlin."
+      }
+    ]
   }
 ];
