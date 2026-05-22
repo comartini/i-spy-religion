@@ -93,11 +93,10 @@ const scenes = [
     image: "images/botanica.jpg",
     hotspots: [
       {
-        x: 50, y: 20,
-        label: "Temple of Justice",
+        x: 48.2, y: 72.7,
+        label: "Veladoras",
         obvious: true,
-        text: "Architect Cass Gilbert deliberately designed the United States Supreme Court building in the likeness of a temple from Greek and Roman antiquity, and it has been nicknamed the 'Temple of Justice.' The columnar facade, with the accomanying frieze above the pediment, evoke famous temples such as the Parthenon, the Hephaisteion, and the Pantheon. Neoclassical architectural stylings are common among American government buildings, creating an aesthetic connection between an antique past, and the origins of democracy and other civic ideals, and the American present. Marking these buildings as such denotes an explicit attempt to assign a sacred character to the workings of American government--as its architectural predecessors were meant to be the home of the gods, buildings like the Supreme Court are meant to be the home of the divine and immortal spirit of the ideals of American justice. Ideals, of course, are very different from reality, and there are many groups throughout history who would disagree that the members of the Supreme Court amounted to a pantheon of perfect justice. For more, see Greek Revival Architecture in America by Talbot Hamlin."
-      }
+        text: "Ritual candles are complex and multifaceted religious objects, particularly in the Latin and Hispanic world. Often, their containers are marked with images of saints, and they are burned as an invocation of the saint for veneration or intercession. However botanicas like this will often also sell candles with dieties or icons from other religions, like Santeria, and these objects represent an opportunity for religious syncretism and mixing, not belonging to any one tradition exclusively. Some candles have a specific devotional purpose directed towards a diety or force, and others have a more practical purpose, calling for good fortune (Suerte y Fortuna), for a man to be repulsed by other women (Aborrecido por Todas), or keeping your mother-in-law away (Aleja Suegras). These candles will be made with certain oils and herbs, and the ways in which they burn can tell the user how and if the candle's devotion or invocation is successful. For more, see Michael Owen Jones' article in the Journal of American Folklore, Herbs and Saints in the City of Angels: Researching Botánicas, Healing, and Power in Southern California."
     ]
   }
 ];
