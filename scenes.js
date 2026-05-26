@@ -111,5 +111,18 @@ const scenes = [
         text: "These hanging items are mojo bags--small, fabric or leather pouches packed with botanical, mineral, and curio items, meant to offer protection, good fortune, or to help the user accomplish a specific goal. Rooted in West African spiritual traditions, they form a cornerstone of African, Caribbean, and Latin American folk magic sold in traditional neighborhood or online botanicas. The bag itself originated in West African practice of making and carrying gris-gris bags, which served a similar protective function, and was brought to the Americas through the slave trade. Once in the Americas, the practice fused with indigenous herbal and medical practices."
       }
         ]
+  },
+    {
+    id: "Hotel",
+    title: "Hotel",
+    image: "images/hotel-room.jpg",
+    hotspots: [
+      {
+        x: 48.2, y: 72.7,
+        label: "Veladoras",
+        obvious: true,
+        text: "Ritual candles are complex and multifaceted religious objects, particularly in the Latin and Hispanic world. Often, their containers are marked with images of saints, and they are burned as an invocation of the saint for veneration or intercession. However, botanicas like this will often also sell candles with deities or icons from other religions, like Santeria, and these objects represent an opportunity for religious syncretism and mixing, not belonging to any one tradition exclusively. Some candles have a specific devotional purpose directed towards a deity or force, and others have a more practical purpose, calling for good fortune (Suerte y Fortuna), for a man to be repulsed by other women (Aborrecido por Todas), or keeping your mother-in-law away (Aleja Suegras). These candles will be made with certain oils and herbs, and the ways in which they burn can tell the user how and if the candle's devotion or invocation is successful. For more, see Michael Owen Jones' article in the Journal of American Folklore, Herbs and Saints in the City of Angels: Researching Botánicas, Healing, and Power in Southern California."
+      }
+        ]
   }
 ];
