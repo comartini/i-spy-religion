@@ -118,11 +118,10 @@ const scenes = [
     image: "images/hotel-room.jpg",
     hotspots: [
       {
-        x: 48.2, y: 72.7,
-        label: "Veladoras",
+        x: 19, y: 62,
+        label: "The Gideon Bible",
         obvious: true,
-        text: "Ritual candles are complex and multifaceted religious objects, particularly in the Latin and Hispanic world. Often, their containers are marked with images of saints, and they are burned as an invocation of the saint for veneration or intercession. However, botanicas like this will often also sell candles with deities or icons from other religions, like Santeria, and these objects represent an opportunity for religious syncretism and mixing, not belonging to any one tradition exclusively. Some candles have a specific devotional purpose directed towards a deity or force, and others have a more practical purpose, calling for good fortune (Suerte y Fortuna), for a man to be repulsed by other women (Aborrecido por Todas), or keeping your mother-in-law away (Aleja Suegras). These candles will be made with certain oils and herbs, and the ways in which they burn can tell the user how and if the candle's devotion or invocation is successful. For more, see Michael Owen Jones' article in the Journal of American Folklore, Herbs and Saints in the City of Angels: Researching Botánicas, Healing, and Power in Southern California."
-      }
+        text: "In most American hotel rooms, there is a copy of the Bible in the nightstand. Beginning in 1908, The Gideons International organization began distributing Bibles to places of lodging, meant to give travelers a source of comfort and spiritual guidance. The Gideons International organization is, of course, an evangelical missionary group, engaging in the longstanding practice of distributing Bibles widely, a practice which began in the early 1800s with the British and Foreign Bible Society and the American Bible Society. As many evangelicals believe that the Bible is the highest form of spiritual authority, the act of receiving or encountering a bible could have a real effect on one's potential for salvation, and The Gideons International saw hotel guests as a prime subject for their proselytization efforts. This practice is slowly declining, with more hotel chains opting not to include a Bible in their rooms. The Marriott chain of hotels includes both a Gideon Bible and a Book of Mormon in their nightstands. For more, see Daniel Vaca's Evangelicals Incorporated: Books and the Business of Religion in America and Mark Noll's America's Book: The Rise and Decline of a Bible Civilization, 1794-1911."
         ]
   }
 ];
