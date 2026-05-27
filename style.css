@@ -209,3 +209,16 @@ nav a:hover {
 .about-content a:hover {
   color: #2c2c2c;
 }
+
+/* ── Footer ── */
+footer {
+  text-align: center;
+  margin-top: 3rem;
+  padding-bottom: 2rem;
+}
+
+footer img {
+  max-width: 200px;
+  height: auto;
+  opacity: 0.8;
+}
