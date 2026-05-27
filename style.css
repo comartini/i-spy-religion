@@ -188,12 +188,16 @@ nav a:hover {
   line-height: 1.8;
 }
 .about-content section {
-  margin-bottom: 2.5rem;
+  margin-bottom: 0;
 }
 .about-content h2 {
   font-size: 1.2rem;
+  margin-top: 2.5rem;
   margin-bottom: 0.75rem;
   color: #8b3a3a;
+}
+.about-content section:first-of-type h2 {
+  margin-top: 0;
 }
 .about-content p {
   font-size: 0.95rem;
