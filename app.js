@@ -58,7 +58,7 @@ document.getElementById("remaining-count").textContent = currentScene.hotspots.l
 
 function showTooltip(spot) {
   document.getElementById("tooltip-title").textContent = spot.label;
-  document.getElementById("tooltip-body").textContent = spot.text;
+  document.getElementById("tooltip-body").innerHTML = spot.text;
   document.getElementById("tooltip").classList.add("visible");
 }
 
