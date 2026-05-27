@@ -1,12 +1,18 @@
 // app.js
 
 let currentScene = null;
+let recentScenes = [];
+const HISTORY_SIZE = 3;
 let hintsVisible = false;
 let foundSpots = new Set();
 
 function getRandomScene() {
-  const available = scenes.filter(s => s.id !== (currentScene && currentScene.id));
-  return available[Math.floor(Math.random() * available.length)];
+  const available = scenes.filter(s => !recentScenes.includes(s.id));
+  const pool = available.length > 0 ? available : scenes;
+  const scene = pool[Math.floor(Math.random() * pool.length)];
+  recentScenes.push(scene.id);
+  if (recentScenes.length > HISTORY_SIZE) recentScenes.shift();
+  return scene;
 }
 
 function loadScene(scene) {
