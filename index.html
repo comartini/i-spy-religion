@@ -3,18 +3,20 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Where Is Religion?</title>
+  <title>Where is Religion?</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
   <header>
-    <h1>Where Is Religion?</h1>
-    <p class="subtitle">Click around the image to find where religion appears — obvious and hidden.</p>
+    <h1>Where is Religion?</h1>
+    <p class="subtitle">Click around the image to find where religion appears.</p>
   </header>
 
   <main>
-    <div class="scene-label" id="scene-label"></div>
 
     <div class="image-container" id="image-container">
       <img id="scene-image" src="" alt="A scene for exploration" />
@@ -27,10 +29,11 @@
       <p id="tooltip-body"></p>
     </div>
 
-    <div class="controls">
-      <button id="next-btn">Load a New Scene →</button>
-      <button id="hints-btn">Toggle Hotspot Hints</button>
-    </div>
+ <div class="controls">
+  <button id="next-btn">Load a New Scene →</button>
+  <button id="hints-btn">Toggle Hotspot Hints</button>
+  <button onclick="window.location.href='about.html'">About This Project</button>
+</div>
 
     <div class="found-list" id="found-list">
       <p class="found-label">Spots found: <span id="found-count">0</span> / <span id="total-count">0</span> &nbsp;|&nbsp; Remaining: <span id="remaining-count">0</span></p>
