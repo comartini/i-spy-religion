@@ -1,6 +1,5 @@
 /* ── Reset & Base ── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
 body {
   font-family: "Google Sans Flex", sans-serif;
   font-optical-sizing: auto;
@@ -11,25 +10,21 @@ body {
   min-height: 100vh;
   padding: 2rem 1rem;
 }
-
 /* ── Header ── */
 header {
   text-align: center;
   margin-bottom: 1.5rem;
 }
-
 header h1 {
   font-size: 2rem;
   letter-spacing: 0.02em;
   margin-bottom: 0.4rem;
 }
-
 .subtitle {
   font-size: 0.95rem;
   color: #666;
   font-style: italic;
 }
-
 /* ── Scene Label ── */
 .scene-label {
   text-align: center;
@@ -40,7 +35,6 @@ header h1 {
   letter-spacing: 0.05em;
   text-transform: uppercase;
 }
-
 /* ── Image Container ── */
 .image-container {
   position: relative;
@@ -51,19 +45,16 @@ header h1 {
   border: 2px solid #ccc;
   box-shadow: 0 4px 20px rgba(0,0,0,0.15);
 }
-
 .image-container img {
   display: block;
   width: 100%;
   height: auto;
 }
-
 #hotspots-layer {
   position: absolute;
   top: 0; left: 0;
   width: 100%; height: 100%;
 }
-
 /* ── Hotspots ── */
 .hotspot {
   position: absolute;
@@ -76,51 +67,42 @@ header h1 {
   cursor: crosshair;
   transition: background 0.2s, transform 0.2s;
 }
-
 .hotspot:hover {
   background: transparent;
 }
-
 .hotspot.found {
   background: rgba(60, 140, 80, 0.5);
   border: 2px solid white;
   cursor: pointer;
 }
-
 .hotspot:hover {
   background: rgba(180, 50, 50, 0.6);
   transform: translate(-50%, -50%) scale(1.2);
 }
-
 .hotspot.found {
   background: rgba(60, 140, 80, 0.5);
   border-color: white;
 }
-
 /* Hidden by default; visible when hints are on */
 .hotspot.hidden-hint {
   opacity: 0;
   pointer-events: none;
 }
-
 .hints-visible .hotspot {
   opacity: 1 !important;
   pointer-events: all !important;
 }
-
 /* Pulse animation for undiscovered hotspots */
 @keyframes pulse {
   0%   { box-shadow: 0 0 0 0 rgba(180,50,50,0.5); }
   70%  { box-shadow: 0 0 0 10px rgba(180,50,50,0); }
   100% { box-shadow: 0 0 0 0 rgba(180,50,50,0); }
 }
-
 .hints-visible .hotspot:not(.found) {
   background: transparent;
   border: none;
   animation: pulse 2.5s infinite;
 }
-
 /* ── Tooltip ── */
 .tooltip {
   display: none;
@@ -138,21 +120,17 @@ header h1 {
   z-index: 100;
   border-radius: 2px;
 }
-
 .tooltip.visible { display: block; }
-
 .tooltip h3 {
   font-size: 1rem;
   margin-bottom: 0.5rem;
   color: #8b3a3a;
 }
-
 .tooltip p {
   font-size: 0.9rem;
   line-height: 1.6;
   color: #333;
 }
-
 .tooltip-close {
   position: absolute;
   top: 0.5rem;
@@ -163,7 +141,6 @@ header h1 {
   cursor: pointer;
   color: #999;
 }
-
 /* ── Controls ── */
 .controls {
   display: flex;
@@ -172,7 +149,6 @@ header h1 {
   margin: 1.25rem auto;
   max-width: 900px;
 }
-
 .controls button {
   padding: 0.6rem 1.4rem;
   font-family: Georgia, serif;
@@ -184,15 +160,48 @@ header h1 {
   border-radius: 2px;
   transition: background 0.2s;
 }
-
 .controls button:hover { background: #8b3a3a; }
-
 /* ── Found Counter ── */
 .found-list {
   text-align: center;
   font-size: 0.85rem;
   color: #888;
 }
+/* ── Nav ── */
 nav {
   margin-top: 0.5rem;
+}
+nav a {
+  font-size: 0.9rem;
+  color: #8b3a3a;
+  text-decoration: none;
+  letter-spacing: 0.05em;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+/* ── About Page ── */
+.about-content {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 1rem 2rem;
+  line-height: 1.8;
+}
+.about-content section {
+  margin-bottom: 2.5rem;
+}
+.about-content h2 {
+  font-size: 1.2rem;
+  margin-bottom: 0.75rem;
+  color: #8b3a3a;
+}
+.about-content p {
+  font-size: 0.95rem;
+}
+.about-content a {
+  color: #8b3a3a;
+  text-decoration: underline;
+}
+.about-content a:hover {
+  color: #2c2c2c;
 }
