@@ -149,5 +149,18 @@ const scenes = [
         text: "For most of American history, paper currency was backed by a physical commodity, gold or silver, and bills like this one were legally redeemable for their equivalent weight in precious metal. This bill, a Silver Certificate, still carries that promise in plain text at the bottom of the front--\"One Dollar in Silver Payable to the Bearer on Demand\". In 1964, that promise was quietly retired. Since then, the dollar has been what economists call \"fiat currency,\"its value guaranteed not by any physical substance but by \"the full faith and credit of the United States.\" The word faith is right there in the official language. Fiat currency works similarly to religious belief and practice, insofar as a dollar is worth a dollar because a community of people collectively agrees that it is, and for no other reason. When that collective agreement collapses, as it did in Weimar Germany in the 1920s or Zimbabwe in the 2000s, the currency becomes worthless overnight. Some scholars have pushed this argument further, arguing that capitalism itself functions as a religion, with its own vision of salvation, its own priesthood, and its own sacred texts and rituals. For more, see Eugene McCarraher's <a href=\"https://www.hup.harvard.edu/books/9780674984301\" target=\"blank\"> <em>The Enchantments of Mammon: How Capitalism Became the Religion of Modernity</em></a>."
         }
         ]
-  }
+  },
+  {
+    id: "Washington",
+    title: "Rally",
+    image: "images/washington.jpg",
+    hotspots: [
+      {
+        x: 35, y: 40,
+        label: "The Epoch Times",
+        obvious: true,
+        text: "At first glance, you might assume that a newspaper with this name, presented in a venue like this, would be a Christian-focused publication. The word \"epoch\" here would often be a clue to suggest that the publication was affiliated with the theology of Evangelical dispensationalism, in which time is divided into distinct epochs in which God exercises a particular plan, with our current epoch being the last before the return of Christ and the apocalypse. Dispensationalism is common among conservative Evangelicals who might be supportive of President Trump. However, <em>The Epoch Times</em> is actually a publication run by Falun Gong, a Chinese new religious movement that has been heavily persecuted in China and which operates several far-right and anti-Communist programs in the United States, like <em>The Epoch Times</em> and the Shen Yun dance troupe. Though not Christian, Falun Gong shares many more cultural positions with American conservative Evangelicals, such as opposition to homosexuality, feminism, and socialism, and support for Donald Trump's political movement. For more on American Christian dispensationalism, see Matthew Avery Sutton's <a href=\"https://www.hup.harvard.edu/books/9780674975439\" target=\"_blank\"> <em>American Apocalypse</em></a>. For more on Falun Gong, particularly its apocalyptic beliefs, see Maria Hsia Chang's <a href=\"https://yalebooks.yale.edu/book/9780300133172/falun-gong/\" target=\"_blank\"> <em>Falun Gong: The End of Days</em></a>."
+      },
+      ]
+      }
 ];
