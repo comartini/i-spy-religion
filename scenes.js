@@ -124,5 +124,18 @@ const scenes = [
         text: "In most American hotel rooms, there is a copy of the Bible in the nightstand. Beginning in 1908, The Gideons International organization began distributing Bibles to places of lodging, meant to give travelers a source of comfort and spiritual guidance on their journeys. The Gideons International organization is, of course, an evangelical missionary group, engaging in the longstanding practice of distributing Bibles widely, a practice which began in the early 1800s with the British and Foreign Bible Society and the American Bible Society. As many evangelicals believe that the Bible is the highest form of spiritual authority, the act of receiving or encountering a bible could have a real effect on one's potential for salvation, and The Gideons International saw hotel guests as a prime subject for their proselytization efforts. This practice is slowly declining, with more hotel chains opting not to include a Bible in their rooms. The Marriott chain of hotels includes both a Gideon Bible and a Book of Mormon in their nightstands. For more, see Daniel Vaca's <a href=\"https://www.hup.harvard.edu/books/9780674980112\" target=\"blank\"> <em>Evangelicals Incorporated: Books and the Business of Religion in America</em></a> and Mark Noll's <a href=\"https://global.oup.com/academic/product/americas-book-9780197623466?cc=us&lang=en&\" target=\"blank\" <em>America's Book: The Rise and Decline of a Bible Civilization, 1794-1911</em></a>."
         }
         ]
+  },
+   {
+    id: "Dollar Bill",
+    title: "Dollar Bill",
+    image: "images/dollar.jpg",
+    hotspots: [
+      {
+        x: 19, y: 62,
+        label: "The Gideon Bible",
+        obvious: true,
+        text: "In most American hotel rooms, there is a copy of the Bible in the nightstand. Beginning in 1908, The Gideons International organization began distributing Bibles to places of lodging, meant to give travelers a source of comfort and spiritual guidance on their journeys. The Gideons International organization is, of course, an evangelical missionary group, engaging in the longstanding practice of distributing Bibles widely, a practice which began in the early 1800s with the British and Foreign Bible Society and the American Bible Society. As many evangelicals believe that the Bible is the highest form of spiritual authority, the act of receiving or encountering a bible could have a real effect on one's potential for salvation, and The Gideons International saw hotel guests as a prime subject for their proselytization efforts. This practice is slowly declining, with more hotel chains opting not to include a Bible in their rooms. The Marriott chain of hotels includes both a Gideon Bible and a Book of Mormon in their nightstands. For more, see Daniel Vaca's <a href=\"https://www.hup.harvard.edu/books/9780674980112\" target=\"blank\"> <em>Evangelicals Incorporated: Books and the Business of Religion in America</em></a> and Mark Noll's <a href=\"https://global.oup.com/academic/product/americas-book-9780197623466?cc=us&lang=en&\" target=\"blank\" <em>America's Book: The Rise and Decline of a Bible Civilization, 1794-1911</em></a>."
+        }
+        ]
   }
 ];
