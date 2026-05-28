@@ -152,14 +152,15 @@ const scenes = [
   },
   {
     id: "Washington",
-    title: "Rally",
+    title: "Washington",
     image: "images/washington.jpg",
     hotspots: [
       {
-        x: 35, y: 40,
-        label: "The Epoch Times",
+        x: 50.4, y: 54.1,
+        label: "Obelisk",
         obvious: true,
-        text: "At first glance, you might assume that a newspaper with this name, presented in a venue like this, would be a Christian-focused publication. The word \"epoch\" here would often be a clue to suggest that the publication was affiliated with the theology of Evangelical dispensationalism, in which time is divided into distinct epochs in which God exercises a particular plan, with our current epoch being the last before the return of Christ and the apocalypse. Dispensationalism is common among conservative Evangelicals who might be supportive of President Trump. However, <em>The Epoch Times</em> is actually a publication run by Falun Gong, a Chinese new religious movement that has been heavily persecuted in China and which operates several far-right and anti-Communist programs in the United States, like <em>The Epoch Times</em> and the Shen Yun dance troupe. Though not Christian, Falun Gong shares many more cultural positions with American conservative Evangelicals, such as opposition to homosexuality, feminism, and socialism, and support for Donald Trump's political movement. For more on American Christian dispensationalism, see Matthew Avery Sutton's <a href=\"https://www.hup.harvard.edu/books/9780674975439\" target=\"_blank\"> <em>American Apocalypse</em></a>. For more on Falun Gong, particularly its apocalyptic beliefs, see Maria Hsia Chang's <a href=\"https://yalebooks.yale.edu/book/9780300133172/falun-gong/\" target=\"_blank\"> <em>Falun Gong: The End of Days</em></a>."
+        text: "
+          ."
       },
       ]
       }
