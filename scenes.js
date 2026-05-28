@@ -159,8 +159,7 @@ const scenes = [
         x: 50.4, y: 54.1,
         label: "Obelisk",
         obvious: true,
-        text: "
-          ."
+        text: "While much of the architecture of United States government buildings and facilities deliberately evokes ancient Greek and Roman styles, the Washington Monument stands out as an example of ancient Egypt's more contemporary influence. In ancient Egypt, the obelisk, or elongated columnar pyramid, was used to adorn temples, typically in pairs, and was associated with the sun god Ra, one of the most important figures in the Egyptian pantheon. After the Romans took control of Egypt, the obelisk form migrated to Western Europe, and later the Americas. In the case of the Washington Monument, the obelisk form was chosen for its evocation of permanence and stability, and, at the time of its completion in 1885, was briefly the tallest structure in the world. For more on the national monuments and the sacred landscape of Washington, DC, see Kirk Savage's <a href=\"https://www.ucpress.edu/books/monument-wars/paper\" target=\"blank\"> <em>Monument Wars: Washington D.C., the National Mall, and the Transformation of the Memorial Landscape</em?</a>."
       },
       ]
       }
