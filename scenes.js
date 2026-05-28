@@ -131,7 +131,7 @@ const scenes = [
     image: "images/dollar.jpg",
     hotspots: [
       {
-        49.5, y: 65.2,
+        x: 49.5, y: 65.2,
         label: "The Missing Motto",
         obvious: true,
         text: "This is an example of a place where we might expect to find religion, but it is curiously absent. Most of us are probably used to the phrase \"In God We Trust\" appearing on American currency. Though the phrase appears in many contexts since the Revolutionary period, it did not appear on any American currency until the Civil War, where it adorned the two-cent piece. At the time, the phrase was meant to be an explicit affirmation of the Christian God's favor of the Union and in the need for an anxious public to put their faith in God's Providence. In the decades following the war, the phrase began to be referred to as the nation's motto, even by non-Christians, and it appeared on several other denominations of coinage, until President Theodore Roosevelt, contentiously, had it removed in 1905, only to be restored to coins two years later. However, the phrase did not appear on paper currency until 1955, and it was not designated the national motto by Congress until 1956. The push to adopt the motto and print it on currency, in addition to federal postage, came amid the Cold War-era existential anxieties about the future of the nation, and was furthered by a broad coalition of faith-based advocates from many traditions and denominations. This bill, however, is from 1935, printed before the effort to have the motto on paper currency. For more, see Michael Lienesch's article <a href=\"https://www.mdpi.com/2077-1444/10/5/340\" target=\"blank\"> \"In God We Trust\": The National Motto and the Contested Concept of Civil Religion\"."
