@@ -194,8 +194,14 @@ const scenes = [
     image: "images/aisle.jpg",
     hotspots: [
       {
-        x: 65.6, y: 31.1,
-        label: "Aisle",
+        x: 52.4, y: 58.8,
+        label: "Crisco",
+        obvious: true,
+        text: ""
+      },
+         {
+        x: 74.3, y: 75.6,
+        label: "Kellogg",
         obvious: true,
         text: ""
       }
