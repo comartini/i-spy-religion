@@ -174,5 +174,18 @@ const scenes = [
         text: "The National Mall functions as one of America's most important pilgrimage sites, just as Washington DC is one of its most sacred cities. The monuments, memorials, and reflecting pools do not just exist for historical edification, they are designed to produce a particular kind of experience in the visitor, an encounter with something larger than the self and an America that transcends time and space, that shapes the visitor into a kind of political and religious subject. The tour narrative itself functions as a kind of liturgy, shaping what visitors feel, what they remember, and who they understand themselves to be in relation to the national story. And such visitations and pilgrimages are not just about the sites shaping subjects, as visitors can also claim and project significance onto sacred sites through the rituals of visitation, as White evangelicals have often done with the National Mall. For more on this, see Lauren Kerby's <a href=\"https://uncpress.org/book/9781469661476/saving-history/\"><em>Saving History: How White Evangelicals Tour the Nation's Capital and Claim It as Their Own</em></a>."
       }
       ]
+      },
+    {
+    id: "Grand Central",
+    title: "Grand Central",
+    image: "images/grand-central.jpg",
+    hotspots: [
+      {
+        x: 50.4, y: 54.1,
+        label: "Obelisk",
+        obvious: true,
+        text: "While much of the architecture of United States government buildings and facilities deliberately evokes ancient Greek and Roman styles, the Washington Monument stands out as an example of ancient Egypt's more contemporary influence. In ancient Egypt, the obelisk, or elongated columnar pyramid, was used to adorn temples, typically in pairs, and was associated with the sun god Ra, one of the most important figures in the Egyptian pantheon. After the Romans took control of Egypt, the obelisk form migrated to Western Europe, and later the Americas. In the case of the Washington Monument, the obelisk form was chosen for its evocation of permanence and stability, and, at the time of its completion in 1885, was briefly the tallest structure in the world. According to the DC building codes, no future buildings can surpass its 555 feet. Now, the monument stands as a tribute to a figure who occupies a similar central point in the American historical pantheon as the sun god for whom the obelisk form was first implemented. For more on the national monuments and the sacred landscape of Washington, DC, see Kirk Savage's <a href=\"https://www.ucpress.edu/books/monument-wars/paper\" target=\"blank\"> <em>Monument Wars: Washington D.C., the National Mall, and the Transformation of the Memorial Landscape</em?</a>."
+      }
+      ]
       }
 ];
