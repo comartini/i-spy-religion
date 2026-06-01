@@ -193,9 +193,9 @@ const scenes = [
     hotspots: [
       {
         x: 65.6, y: 31.1,
-        label: "Zodiac Ceiling",
+        label: "Aisle",
         obvious: true,
-        text: "The ceiling of the main concourse of New York City's Grand Central Station features a painted representation of the zodiacal constellations of Aquarius, Pisces, Aries, Taurus, Gemini, and Cancer. Starscapes on ceilings is a relatively common visual motif, meant to give the viewer a sense of the grandeur and infinity of the heavens. Starscapes are present in religious buildings across different traditions, from the vaulted ceiling of the Sainte-Chapelle in France, the Alhambra palace compelx in Spain, and in the excavated synagogues of ancient Palestine. One could argue that the mural at Grand Central is a kind of secular interpretation of these historical aesthetic precedents, but like many things that appear secular, it helps to question what makes something so secular. Here, the presence of the zodiacal constellations, though not meant to be a kind of explicit religious statement, nevertheless gestures to the astrological culture at the time of the mural's creation in 1912, particularly in New York City. In the decades before and after, Evangeline Adams was becoming America's \"first astrological superstar,\" publishing books on astrological prediction and offering readings out of her office in Carnegie Hall to the city's social and economic elites. Adams was famously aquitted in a 1914 criminal trial for fortune-telling, an illegal practice at the time, after she read the judge's birth chart and convinced him of the legitimacy of astrology as a predictive practice. For more on the Grand Central ceiling, see <a href=\"https://blogs.library.columbia.edu/rbml/2021/03/02/jacoby-and-grand-central/\" target=\"blank\"> \"Harold Jacoby and the Stars above Grand Central.\"</a>. For more on Evangeline Adams, see Brian Diemert's article <a href=\"https://www.jstor.org/stable/3831758\" target=\"blank\"> \"The Trials of Astrology in T.S. Eliot's \"The Waste Land\": A Gloss on Lines 57-59.\"</a>"
+        text: ""
       }
       ]
       }
