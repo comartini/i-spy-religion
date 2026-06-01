@@ -107,18 +107,18 @@ header h1 {
 .tooltip {
   display: none;
   position: fixed;
-  bottom: 6rem;
-  left: 50%;
-  transform: translateX(-50%);
+  bottom: 0;
+  left: 0;
+  right: 0;
   background: white;
-  border: 1px solid #ccc;
-  border-left: 4px solid #8b3a3a;
-  padding: 1rem 1.25rem;
-  max-width: 480px;
-  width: 90%;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  border-top: 4px solid #8b3a3a;
+  padding: 1.25rem 1.5rem;
+  max-height: 50vh;
+  overflow-y: auto;
+  width: 100%;
+  box-shadow: 0 -4px 16px rgba(0,0,0,0.15);
   z-index: 100;
-  border-radius: 2px;
+  border-radius: 0;
 }
 .tooltip.visible { display: block; }
 .tooltip h3 {
