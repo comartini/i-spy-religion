@@ -108,7 +108,7 @@ const scenes = [
         x: 54.2, y: 12.9,
         label: "Mojo Bags",
         obvious: true,
-        text: "These hanging items are mojo bags--small, fabric or leather pouches packed with botanical, mineral, and curio items, meant to offer protection, good fortune, or to help the user accomplish a specific goal. Rooted in West African spiritual traditions, they form a cornerstone of African, Caribbean, and Latin American folk magic sold in traditional neighborhood or online botanicas. The bag itself originated in West African practice of making and carrying gris-gris bags, which served a similar protective function, and was brought to the Americas through the slave trade. Once in the Americas, the practice fused with indigenous herbal and medical practices, resulting in the bags on sale here."
+        text: "These hanging items are mojo bags--small, fabric or leather pouches packed with botanical, mineral, and curio items, meant to offer protection, good fortune, or to help the user accomplish a specific goal. Rooted in West African spiritual traditions, they form a cornerstone of African, Caribbean, and Latin American folk magic sold in traditional neighborhood or online botanicas. The bag itself originated in West African practice of making and carrying gris-gris bags, which served a similar protective function, and was brought to the Americas through the slave trade. Once in the Americas, the practice fused with indigenous herbal and medical practices, resulting in the bags on sale here. For more see Danielle Clausnitzer's article <a href=\"https://www.mdpi.com/2077-1444/8/10/213\" target=\"blank\"> \"Adorned by Power: The Individualized Experience of the Mojo Bag.\"</a>"
       }
         ]
   },
