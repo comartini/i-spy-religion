@@ -2,7 +2,7 @@
 
 let currentScene = null;
 let recentScenes = [];
-const HISTORY_SIZE = 3;
+const HISTORY_SIZE = 6;
 let hintsVisible = false;
 let foundSpots = new Set();
 
