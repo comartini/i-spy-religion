@@ -197,7 +197,7 @@ const scenes = [
         x: 52.4, y: 58.8,
         label: "Crisco",
         obvious: true,
-        text: ""
+        text: "Over the course of the 20th Century, as more of America's food traveled through industrialized channels, new institutional arrangements emerged which would reconcile the dietary resitrictions and traditions of various religious and ethic groups with the emergent corporate food economy. Crisco, the popular vegetable shortening originally produced by Procter & Gamble, for example, was marketed heavily towards Jewish women in the early 20th Century, as it was institutionally certified as kosher though P&G's internal collaborations with rabbis and independent chemical analysis and thus was framed as a more religiously-safe alternative to other consumer shortenings that might be contaminated by pork fat in other uncertain and often-unregulated processing systems. Cisco was also marketed as being a healthy, shelf-stable, and more \"American\" alternative to the traditional Ashkenazi shortening, rendered chicken fat or <em>schmaltz</em>. For more on the Jewish history of Crisco, see Rachel Gross's essay \"Jews, Schmaltz, and Crisco in the Age of Industrial Food\" in the edited volume <ahref=\"https://nyupress.org/9781479827794/feasting-and-fasting/" target=\"blank\"> <em>Feasting and Fasting: The History and Ethics of Jewish Food</em></a>."
       },
          {
         x: 74.3, y: 75.6,
