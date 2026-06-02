@@ -11,7 +11,7 @@ const scenes = [
     hotspots: [
       {
         x: 35, y: 40,
-        label: "<em>The Epoch Times</em>",
+        label: "The Epoch Times",
         obvious: true,
         text: "At first glance, you might assume that a newspaper with this name, presented in a venue like this, would be a Christian-focused publication. The word \"epoch\" here would often be a clue to suggest that the publication was affiliated with the theology of Evangelical dispensationalism, in which time is divided into distinct epochs in which God exercises a particular plan, with our current epoch being the last before the return of Christ and the apocalypse. Dispensationalism is common among conservative Evangelicals who might be supportive of President Trump. However, <em>The Epoch Times</em> is actually a publication run by Falun Gong, a Chinese new religious movement that has been heavily persecuted in China and which operates several far-right and anti-Communist programs in the United States, like <em>The Epoch Times</em> and the Shen Yun dance troupe. Though not Christian, Falun Gong shares many more cultural positions with American conservative Evangelicals, such as opposition to homosexuality, feminism, and socialism, and support for Donald Trump's political movement. For more on American Christian dispensationalism, see Matthew Avery Sutton's <a href=\"https://www.hup.harvard.edu/books/9780674975439\" target=\"_blank\"> <em>American Apocalypse</em></a>. For more on Falun Gong, particularly its apocalyptic beliefs, see Maria Hsia Chang's <a href=\"https://yalebooks.yale.edu/book/9780300133172/falun-gong/\" target=\"_blank\"> <em>Falun Gong: The End of Days</em></a>."
       },
@@ -94,7 +94,7 @@ const scenes = [
     hotspots: [
       {
         x: 48.2, y: 72.7,
-        label: "<em>Veladoras</em>",
+        label: "Veladoras",
         obvious: true,
         text: "Ritual candles are complex and multifaceted religious objects, particularly in the Latin and Hispanic world. Often, their containers are marked with images of saints, and they are burned as an invocation of the saint for veneration or intercession. However, botanicas like this will often also sell candles with deities or icons from other religions, like Santeria, and these objects represent an opportunity for religious syncretism and mixing, not belonging to any one tradition exclusively. Some candles have a specific devotional purpose directed towards a deity or force, and others have a more practical purpose, calling for good fortune (Suerte y Fortuna), for a man to be repulsed by other women (Aborrecido por Todas), or keeping your mother-in-law away (Aleja Suegras). These candles will be made with certain oils and herbs, and the ways in which they burn can tell the user how and if the candle's devotion or invocation is successful. For more, see Michael Owen Jones's article <a href=\"https://muse.jhu.edu/pub/25/article/745703\" target=\"blank\"> \"Herbs and Saints in the City of Angels: Researching Botánicas, Healing, and Power in Southern California.\"</a>"
       },
