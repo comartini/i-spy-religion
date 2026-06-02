@@ -203,7 +203,7 @@ const scenes = [
         x: 74.3, y: 75.6,
         label: "Kellogg",
         obvious: true,
-        text: ""
+        text: "John Harvey Kellogg was, among many things, a physician and inventor who was a leader in promoting various health reforms in the 19th and 20th Centuries aimed at promoting an explicitly racist and eugenic interpretation of bodily purity. This interest in purity was directly related to his being a Seventh Day Adventist, a Protestant denomination that believed in the imminent return of Christ to Earth and, consequently, the need to purify the body in expectation. During Kellogg's tenure as the director of the Battle Creek Sanitarium, a Seventh Day Adventist health and wellness resort, he promoted a bland, plant-based diet that would not only improve physical health but suppress sexual appetite, which he understood as a primary source of physical and moral degeneracy. One of his inventions, the corn flake, was intended to be a therapeutic food, part of a comprehensive program of bodily discipline that included hydrotherapy, exercise, and abstinence. Kellogg's invention would later be stolen and commercialized by his former patient CW Post, who added sugar and marketing and turned a religious health food into an American staple. For more on Kellogg, see Brian Wilson's <a href=\"https://iupress.org/9780253014474/dr-john-harvey-kellogg-and-the-religion-of-biologic-living/\" target=\"blank\"> <em>Dr. John Harvey Kellogg and the Religion of Biologic Living</em></a>."
       }
     ]
   }
