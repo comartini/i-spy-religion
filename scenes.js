@@ -184,8 +184,27 @@ const scenes = [
         x: 65.6, y: 31.1,
         label: "Zodiac Ceiling",
         obvious: true,
-        text: "The ceiling of the main concourse of New York City's Grand Central Station features a painted representation of the zodiacal constellations of Aquarius, Pisces, Aries, Taurus, Gemini, and Cancer. Starscapes on ceilings is a relatively common visual motif, meant to give the viewer a sense of the grandeur and infinity of the heavens. Starscapes are present in religious buildings across different traditions, from the vaulted ceiling of the Sainte-Chapelle in France, the Alhambra palace compelx in Spain, and in the excavated synagogues of ancient Palestine. One could argue that the mural at Grand Central is a kind of secular interpretation of these historical aesthetic precedents, but like many things that appear secular, it helps to question what makes something so secular. Here, the presence of the zodiacal constellations, though not meant to be a kind of explicit religious statement, nevertheless gestures to the astrological culture at the time of the mural's creation in 1912, particularly in New York City. In the decades before and after, Evangeline Adams was becoming America's \"first astrological superstar,\" publishing books on astrological prediction and offering readings out of her office in Carnegie Hall to the city's social and economic elites. Adams was famously aquitted in a 1914 criminal trial for fortune-telling, an illegal practice at the time, after she read the judge's birth chart and convinced him of the legitimacy of astrology as a predictive practice. For more on the Grand Central ceiling, see <a href=\"https://blogs.library.columbia.edu/rbml/2021/03/02/jacoby-and-grand-central/\" target=\"blank\"> \"Harold Jacoby and the Stars above Grand Central.\"</a>. For more on Evangeline Adams, see Brian Diemert's article <a href=\"https://www.jstor.org/stable/3831758\" target=\"blank\"> \"The Trials of Astrology in T.S. Eliot's \"The Waste Land\": A Gloss on Lines 57-59.\"</a>"
+        text: "The ceiling of the main concourse of New York City's Grand Central Station features a painted representation of the zodiacal constellations of Aquarius, Pisces, Aries, Taurus, Gemini, and Cancer. Starscapes on ceilings is a relatively common visual motif, meant to give the viewer a sense of the grandeur and infinity of the heavens. Starscapes are present in religious buildings across different traditions, from the vaulted ceiling of the Sainte-Chapelle in France, the Alhambra palace complex in Spain, and in the excavated synagogues of ancient Palestine. One could argue that the mural at Grand Central is a kind of secular interpretation of these historical aesthetic precedents, but like many things that appear secular, it helps to question what makes something so secular. Here, the presence of the zodiacal constellations, though not meant to be a kind of explicit religious statement, nevertheless gestures to the astrological culture at the time of the mural's creation in 1912, particularly in New York City. In the decades before and after, Evangeline Adams was becoming America's \"first astrological superstar,\" publishing books on astrological prediction and offering readings out of her office in Carnegie Hall to the city's social and economic elites. Adams was famously acquitted in a 1914 criminal trial for fortune-telling, an illegal practice at the time, after she read the judge's birth chart and convinced him of the legitimacy of astrology as a predictive practice. For more on the Grand Central ceiling, see <a href=\"https://blogs.library.columbia.edu/rbml/2021/03/02/jacoby-and-grand-central/\" target=\"_blank\">\"Harold Jacoby and the Stars above Grand Central.\"</a> For more on Evangeline Adams, see Brian Diemert's article <a href=\"https://www.jstor.org/stable/3831758\" target=\"_blank\">\"The Trials of Astrology in T.S. Eliot's 'The Waste Land': A Gloss on Lines 57-59.\"</a>"
       }
-      ]
+    ]
+  },
+  {
+    id: "Supermarket",
+    title: "Supermarket",
+    image: "images/aisle.jpg",
+    hotspots: [
+      {
+        x: 52.4, y: 58.8,
+        label: "Crisco",
+        obvious: true,
+        text: "Over the course of the 20th Century, as more of America's food traveled through industrialized channels, new institutional arrangements emerged which would reconcile the dietary resitrictions and traditions of various religious and ethic groups with the emergent corporate food economy. Crisco, the popular vegetable shortening originally produced by Procter & Gamble, for example, was marketed heavily towards Jewish women in the early 20th Century, as it was institutionally certified as kosher though P&G's internal collaborations with rabbis and independent chemical analysis and thus was framed as a more religiously-safe alternative to other consumer shortenings that might be contaminated by pork fat in other uncertain and often-unregulated processing systems. Cisco was also marketed as being a healthy, shelf-stable, and more \"American\" alternative to the traditional Ashkenazi shortening, rendered chicken fat or <em>schmaltz</em>. For more on the Jewish history of Crisco, see Rachel Gross's essay \"Jews, Schmaltz, and Crisco in the Age of Industrial Food\" in the edited volume <a href=\"https://nyupress.org/9781479827794/feasting-and-fasting/\" target=\"blank\"> <em>Feasting and Fasting: The History and Ethics of Jewish Food</em></a>."
+      },
+         {
+        x: 74.3, y: 75.6,
+        label: "Kellogg",
+        obvious: true,
+        text: ""
       }
+    ]
+  }
 ];
