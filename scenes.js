@@ -212,5 +212,18 @@ const scenes = [
         text: "John Harvey Kellogg was a physician and inventor who was a leader in promoting various health reforms in the 19th and 20th Centuries aimed at promoting an explicitly racist and eugenic interpretation of bodily purity. This interest in purity was directly related to his being a Seventh Day Adventist, a Protestant denomination that believed in the imminent return of Christ to Earth and, consequently, the need to purify the body in expectation. During Kellogg's tenure as the director of the Battle Creek Sanitarium, a Seventh Day Adventist health and wellness resort, he promoted a bland, plant-based diet that would not only improve physical health but suppress sexual appetite, which he understood as a primary source of physical and moral degeneracy. One of his inventions, the corn flake, was intended to be a therapeutic food, part of a comprehensive program of bodily discipline that included hydrotherapy, exercise, and abstinence. Kellogg's invention would later be stolen and commercialized by his former patient CW Post, who added sugar and marketing and turned a religious health food into an American staple. For more on Kellogg, see Brian Wilson's <a href=\"https://iupress.org/9780253014474/dr-john-harvey-kellogg-and-the-religion-of-biologic-living/\" target=\"blank\"> <em>Dr. John Harvey Kellogg and the Religion of Biologic Living</em></a>."
       }
     ]
+  },
+    {
+    id: "Halal",
+    title: "Halal",
+    image: "images/halal.jpg",
+    hotspots: [
+      {
+        x: 52.4, y: 58.8,
+        label: "Crisco",
+        obvious: true,
+        text: "Over the course of the 20th Century, as more of America's food traveled through industrialized channels, new institutional arrangements emerged which would reconcile the dietary resitrictions and traditions of various religious and ethic groups with the emergent corporate food economy. Crisco, the popular vegetable shortening originally produced by Procter & Gamble, for example, was marketed heavily towards Jewish women in the early 20th Century, as it was institutionally certified as kosher though P&G's internal collaborations with rabbis and independent chemical analysis and thus was framed as a more religiously-safe alternative to other consumer shortenings that might be contaminated by pork fat in other uncertain and often-unregulated processing systems. Cisco was also marketed as being a healthy, shelf-stable, and more \"American\" alternative to the traditional Ashkenazi shortening, rendered chicken fat or <em>schmaltz</em>. For more on the Jewish history of Crisco, see Rachel Gross's essay \"Jews, Schmaltz, and Crisco in the Age of Industrial Food\" in the edited volume <a href=\"https://nyupress.org/9781479827794/feasting-and-fasting/\" target=\"blank\"> <em>Feasting and Fasting: The History and Ethics of Jewish Food</em></a>."
+      }
+    ]
   }
 ];
