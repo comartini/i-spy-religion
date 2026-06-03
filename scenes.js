@@ -232,10 +232,11 @@ const scenes = [
     image: "images/MOVE.jpg",
     hotspots: [
       {
-        x: 39.1, y: 67.5,
-        label: "The Halal Cart",
+        x: 68.8, y: 47.1,
+        label: "The MOVE Bombing",
         obvious: true,
-        text: "One of New York City's most ubiquitous sights is the halal cart--small, mobile kitchen serving up platters of chicken shawarma, lamb gyro, kebabs, falafel, and rice for New York's on-the-go residents. Though only about 9% of New York's population is Muslim, a much, much larger portion of the city has encountered and enjoyed food prepared according to Islamic law--no pork or alcohol and meat that has been humanely raised and slaughtered in a particular ritual fashion. The origins of the halal cart are a little unclear, though in the past twenty years it has nearly entirely replaced the hot dog carts of the 1990s. Some cart owners have speculated that street food is a kind of \"entry-level\" job for new immigrants, and as the incoming populations from the Middle East and South Asia came to New York they slowly took over the street food game. However it began, the ubiquity of the cart has brought the term \"halal\" into the public consciousness in the city, and with it a greater awareness of the dietary customs of observant Muslims. For perspectives on this trend from cart owners, see <a href=\"https://www.grubstreet.com/2017/11/halal-cart-chicken-and-rice-oral-history.html\" target=\"blank\"> this</a> article from Grubstreet."
+        text: "On May 13, 1985, the Philadelphia Police Department dropped a satchel bomb from a helicopter onto a residential neighborhood, killing six adults and five children, destroying 61 homes, and leaving at least 250 residents homeless. The bombing came as the conclusion of an armed standoff between the police and the members of MOVE, a Black liberation and religious group that fused Black nationalism with anarcho-primitivism. Founded by John Africa in 1972, MOVE followed Africa's writings on returning to nature while still living in urban environments. MOVE was also extremely disruptive to the local community, using bullhorns to preach their message from the roof of their West Philadelphia compound. However, that disruption did not warrant the response MOVE received from the police and city officials, who, in an attempt to arrest the members of MOVE, flooded the compound with fire hoses, shot tear gas into the windows, exchanged gunfire with the members of MOVE, and eventually dropped a bomb on them. No members of the police or city administration were charged or held accountable. For more on the history of MOVE, see Richard Kent Evans' <a href=\"https://global.oup.com/academic/product/move-9780190058777?cc=us&lang=en&\" target=\"blank\"> <em>MOVE: An American Religion</em></a>."
+          "
       }
     ]
   }
