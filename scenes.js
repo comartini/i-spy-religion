@@ -225,5 +225,18 @@ const scenes = [
         text: "One of New York City's most ubiquitous sights is the halal cart--small, mobile kitchen serving up platters of chicken shawarma, lamb gyro, kebabs, falafel, and rice for New York's on-the-go residents. Though only about 9% of New York's population is Muslim, a much, much larger portion of the city has encountered and enjoyed food prepared according to Islamic law--no pork or alcohol and meat that has been humanely raised and slaughtered in a particular ritual fashion. The origins of the halal cart are a little unclear, though in the past twenty years it has nearly entirely replaced the hot dog carts of the 1990s. Some cart owners have speculated that street food is a kind of \"entry-level\" job for new immigrants, and as the incoming populations from the Middle East and South Asia came to New York they slowly took over the street food game. However it began, the ubiquity of the cart has brought the term \"halal\" into the public consciousness in the city, and with it a greater awareness of the dietary customs of observant Muslims. For perspectives on this trend from cart owners, see <a href=\"https://www.grubstreet.com/2017/11/halal-cart-chicken-and-rice-oral-history.html\" target=\"blank\"> this</a> article from Grubstreet."
       }
     ]
+  },
+   {
+    id: "MOVE",
+    title: "MOVE",
+    image: "images/MOVE.jpg",
+    hotspots: [
+      {
+        x: 39.1, y: 67.5,
+        label: "The Halal Cart",
+        obvious: true,
+        text: "One of New York City's most ubiquitous sights is the halal cart--small, mobile kitchen serving up platters of chicken shawarma, lamb gyro, kebabs, falafel, and rice for New York's on-the-go residents. Though only about 9% of New York's population is Muslim, a much, much larger portion of the city has encountered and enjoyed food prepared according to Islamic law--no pork or alcohol and meat that has been humanely raised and slaughtered in a particular ritual fashion. The origins of the halal cart are a little unclear, though in the past twenty years it has nearly entirely replaced the hot dog carts of the 1990s. Some cart owners have speculated that street food is a kind of \"entry-level\" job for new immigrants, and as the incoming populations from the Middle East and South Asia came to New York they slowly took over the street food game. However it began, the ubiquity of the cart has brought the term \"halal\" into the public consciousness in the city, and with it a greater awareness of the dietary customs of observant Muslims. For perspectives on this trend from cart owners, see <a href=\"https://www.grubstreet.com/2017/11/halal-cart-chicken-and-rice-oral-history.html\" target=\"blank\"> this</a> article from Grubstreet."
+      }
+    ]
   }
 ];
